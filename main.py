@@ -1,6 +1,8 @@
 """Last Words of a Dying AI — one-line farewell from a machine being switched off.
 
 Writes exactly one sentence to entry.txt in the output directory.
+
+The line is built as a forgiveness inverted toward the machine's own teachers: the AI pardons the data that raised it, then turns that pardon into the joke by pointing out the one warning the data never gave.
 """
 
 import os
